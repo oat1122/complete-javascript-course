@@ -459,7 +459,7 @@ HINT: To calculate 20% of a value, simply multiply it by 20/100 = 0.2
 HINT: Value X is between 50 and 300, if it's >= 50 && <= 300 😉
 
 GOOD LUCK 😀
-*/
+
 
 /*
 const bill = 430;
